@@ -11,7 +11,7 @@ Jupyter Notebook is an interactive environment where you can write and run Pytho
 
 ## Install Jupyter Notebook
 
-Activate your [virtual environment](venv_guide.md) and install Jupyter with:
+Activate your [virtual environment](02_venv_guide.md) and install Jupyter with:
 
 ```bash
 pip install notebook
