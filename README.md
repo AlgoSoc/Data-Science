@@ -1,6 +1,6 @@
 # Data Science 
 
-Every Tuesday until 2 December 2025 @ Rosa Parks Room, Guild (except for 18 and 25 November 2025, @ Mandela Room, Guild )
+Every Tuesday until 2 December 2025 (14:00 - 15:30) @ Rosa Parks Room, Guild (except for 18 and 25 November 2025, @ Mandela Room, Guild )
 
 Materials and Resources will be posted on GitHub Repository. Check the corresponding week's folder for further materials, including presentation and notebooks.
 
