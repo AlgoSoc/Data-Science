@@ -8,7 +8,7 @@ Materials and Resources will be posted on GitHub Repository. Check the correspon
 | Week | Topic | Coding Resources | Additional Resources |
 |:------:|:-------|:------------------------|:---------------------------|
 | 1 | Introduction to Data Science | • [Intro to Programming (Kaggle)](https://www.kaggle.com/learn/intro-to-programming) <br> • [Python (Kaggle)](https://www.kaggle.com/learn/python) | • [Towards Data Science (data science article collection)](https://towardsdatascience.com/) |
-| 2 | Understanding Data | • [Learning Feature Engineering (Kaggle)](https://www.kaggle.com/learn/feature-engineering) | • [A Gentle Introduction to Statistical Data Distributions (Machine Learning Mastery)](https://machinelearningmastery.com/statistical-data-distributions/) <br> • [Feature Engineering (DataCamp)](https://www.datacamp.com/tutorial/feature-engineering)|
+| 2 | Understanding Data | •[Pandas (Kaggle)](https://www.kaggle.com/learn/pandas) <br> • [Learning Feature Engineering (Kaggle)](https://www.kaggle.com/learn/feature-engineering) | • [A Gentle Introduction to Statistical Data Distributions (Machine Learning Mastery)](https://machinelearningmastery.com/statistical-data-distributions/) <br> • [Feature Engineering (DataCamp)](https://www.datacamp.com/tutorial/feature-engineering)|
 
 
 If you want to contribute to the materials, please send in a PR to this repository :)
